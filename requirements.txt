@@ -1,0 +1,8 @@
+beautifulsoup4==4.12.2
+fitz==0.0.1.dev2
+google_api_python_client==2.105.0
+google_auth_oauthlib==1.1.0
+protobuf==4.21.12
+pyautogen==0.1.14
+PyPDF2==3.0.1
+python-dotenv==1.0.0
